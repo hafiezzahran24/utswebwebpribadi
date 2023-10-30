@@ -338,19 +338,19 @@ height: 40px; /* Menyesuaikan tinggi logo sesuai kebutuhan Anda */
     font-size: 50px;
     display: block;
     text-align: center;
-    margin: 25px 0px;
+    margin: 24px 0px;
     color: rgb(255, 255, 255) ;
 }
 h5{
     color: rgb(224, 67, 143);
-    font-size: 23px;
-    margin-bottom: 15px;
+    font-size: 24px;
+    margin-bottom: 16px;
 }
 .pra p{
     color: rgba(255, 255, 255, 0.8);
     font-size: 16px;
-    line-height: 27px;
-    margin-bottom: 25px;
+    line-height: 28px;
+    margin-bottom: 24px;
 
 }
 
@@ -372,13 +372,13 @@ footer{
     border-radius:50%;
 }
 .social a{
-    width: 45px;
-    height:45px;
+    width: 48px;
+    height:48px;
     display: flex;
     align-items: center;
     justify-content: center;
     background: rgb(218, 23, 82);
-    margin: 22px 10px;
+    margin: 24px 8px;
     color: white;
     text-decoration: none;
     border-radius: 50%;
@@ -393,8 +393,8 @@ footer{
 .end{
     position: absolute;
     color: rgb(255, 48, 145);
-    bottom: 35px;
-    font-size: 14px;
+    bottom: 32px;
+    font-size: 16px;
     background-color: #dc3b6e;
     border-radius: 32px;
 }
