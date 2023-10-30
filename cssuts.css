@@ -386,6 +386,7 @@ footer{
     margin: 22px 10px;
     color: white;
     text-decoration: none;
+    border-radius: 50%;
 }
 
 .social a:hover{
